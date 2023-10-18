@@ -1,3 +1,9 @@
 --SQL References
 
 --CREATE DATABASE: CREATE DATABASE database_name;
+
+/* TABLE:
+    CREATE TABLE table_name(
+        column_name data_type constraint
+    );
+*/
